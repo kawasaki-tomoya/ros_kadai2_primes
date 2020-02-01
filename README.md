@@ -3,6 +3,9 @@
 ## 概要
 ROSを利用して、0.5秒間隔でカウントアップした数字をパブリッシャ(count.py)が発信し、受信したサブスクライバ(twice.py)で表示し、約数を出力します。
 
+## 動作デモ
+https://youtu.be/Jt5q-MIVvA
+
 ## 動作環境
 Ubuntu 18.04.3 LTS(VirtualBoxで動作確認)
 
